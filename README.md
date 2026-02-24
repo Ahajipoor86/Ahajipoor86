@@ -23,7 +23,8 @@
 + Always improving, always building
 ```
 Programming
-<p> <img src="https://skillicons.dev/icons?i=c,cs,python" /> </p>
+<p>
+  
 🧰 Tools & Software
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
