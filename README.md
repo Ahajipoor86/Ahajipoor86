@@ -6,7 +6,6 @@
 
 <div align="center">
 
-### 💻 Low-Level Developer | System Programming Enthusiast | Future Software Engineer | Python Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=C+Programmer;C%23+Developer;x86+Assembly+Learner;Python+Developer;ICDL+Certified;Photoshop+Skilled" />
 
@@ -18,7 +17,7 @@
 
 ```diff
 + Passionate about low-level programming
-+ Learning C and x86 Assembly deeply
++ Learning C and x86 Assembly deeply and python
 + Interested in system architecture & memory management
 + Windows power user
 + Always improving, always building
