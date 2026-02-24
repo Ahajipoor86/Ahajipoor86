@@ -22,7 +22,20 @@
 + Windows power user
 + Always improving, always building
 ```
+Programming
+<p> <img src="https://skillicons.dev/icons?i=c,cs,python" /> </p>
+🧰 Tools & Software
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
+🖥️ Other Skills
+
+📊 ICDL Certified
+
+🎨 Adobe Photoshop
+
+🧠 Problem Solving
+
+⚡ Performance Optimization
 
 
 
