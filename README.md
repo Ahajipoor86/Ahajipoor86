@@ -1,44 +1,61 @@
-<h1 align="center">👋Hello I'm Amirhossein</h1>
+<h1 align="center">Hi, I'm Amirhossein 👋</h1><h3 align="center">Developer · Web Designer · Linux Enthusiast</h3><p align="center">
+  Building things, exploring technology, and learning how systems work.
+</p>---
 
-<h3 align="left">Connect with me:ahajypwr56@gmail.com</h3>
-<p align="left">
-</p>
+👨‍💻 About Me
 
-<div align="center">
+I'm a developer and web designer interested in building practical software and understanding technology from the inside out.
 
+My interests include:
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=C+Programmer;C%23+Developer;x86+Assembly+Learner;Python+Developer;ICDL+Certified;Photoshop+Skilled" />
+- 🌐 Web Development & Web Design
+- ⚙️ Backend Development and PHP
+- 🐧 Linux and System Administration
+- 🔌 Embedded Systems & Low-level Programming
+- 🐍 Python and C Programming
+- 🧠 Software Architecture and Custom CMS Development
 
-</div>
+I enjoy understanding how things work rather than simply using ready-made solutions.
+
+🛠️ Technologies & Tools
+
+Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c" />
+</p>Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,wordpress,mysql,git,github,vscode" />
+</p>🚀 Current Focus
+
+- Improving my JavaScript and frontend development skills.
+- Exploring PHP and SQL for backend development.
+- Learning WordPress Gutenberg and modern web development workflows.
+- Exploring low-level programming and embedded systems.
+- Studying software architecture and modular application design.
+
+🎯 Future Goals
+
+My long-term goal is to build my own modular Content Management System (CMS) from scratch.
+
+A system with:
+
+- A lightweight and modular core.
+- Flexible plugin and module architecture.
+- Custom themes and extensions.
+- Secure user and permission management.
+- A powerful API.
+- Performance-focused architecture.
+
+🏢 SQCORE
+
+I'm also working on SQCORE, a brand focused on web design and smart digital solutions.
+
+🌐 Website: https://www.sqcore.ir
 
 ---
 
-## 🧠 About Me
-
-```diff
-+ Passionate about low-level programming
-+ Learning C and x86 Assembly deeply and python
-+ Interested in system architecture & memory management
-+ Windows power user
-+ Always improving, always building
-```
-Programming
-<p>
-  
-🧰 Tools & Software
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-
-🖥️ Other Skills
-
-📊 ICDL Certified
-
-🎨 Adobe Photoshop
-
-🧠 Problem Solving
-
-⚡ Performance Optimization
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="center">
+  <i>Learn continuously. Build independently. Keep exploring.</i>
+</p>
